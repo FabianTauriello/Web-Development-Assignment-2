@@ -1,0 +1,2042 @@
+﻿[
+  {
+    "month": 1,
+    "monthName": "January",
+    "totalEvents": 184,
+    "eventDetail": {
+      "thirdPartyEvent": 12,
+      "customerEvent": 0,
+      "digEvent": 3,
+      "vandalEvent": 0,
+      "enviroEvent": 86,
+      "equipEvent": 82,
+      "lightEvent": 0,
+      "directedEvent": 0,
+      "opEvent": 1
+    },
+    "customers": 148060,
+    "avgCustomers": 805.0,
+    "avgDuration": 144.67,
+    "maxDuration": 1187,
+    "minDuration": 2,
+    "dailyStats": [
+      {
+        "day": 0,
+        "dayName": "Sunday",
+        "dailyTotalEvents": 19,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 1,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 12,
+          "equipEvent": 6,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 26365,
+        "dailyAvgCustomers": 1388.0,
+        "dailyAvgDuration": 125.42,
+        "dailyMaxDuration": 421,
+        "dailyMinDuration": 2
+      },
+      {
+        "day": 1,
+        "dayName": "Monday",
+        "dailyTotalEvents": 13,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 0,
+          "customerEvent": 0,
+          "digEvent": 1,
+          "vandalEvent": 0,
+          "enviroEvent": 6,
+          "equipEvent": 6,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 5728,
+        "dailyAvgCustomers": 441.0,
+        "dailyAvgDuration": 144.62,
+        "dailyMaxDuration": 340,
+        "dailyMinDuration": 35
+      },
+      {
+        "day": 2,
+        "dayName": "Tuesday",
+        "dailyTotalEvents": 30,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 2,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 17,
+          "equipEvent": 11,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 15719,
+        "dailyAvgCustomers": 524.0,
+        "dailyAvgDuration": 126.1,
+        "dailyMaxDuration": 502,
+        "dailyMinDuration": 9
+      },
+      {
+        "day": 3,
+        "dayName": "Wednesday",
+        "dailyTotalEvents": 40,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 2,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 14,
+          "equipEvent": 23,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 1
+        },
+        "dailyCustomers": 20718,
+        "dailyAvgCustomers": 518.0,
+        "dailyAvgDuration": 180.0,
+        "dailyMaxDuration": 1117,
+        "dailyMinDuration": 14
+      },
+      {
+        "day": 4,
+        "dayName": "Thursday",
+        "dailyTotalEvents": 24,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 3,
+          "customerEvent": 0,
+          "digEvent": 1,
+          "vandalEvent": 0,
+          "enviroEvent": 10,
+          "equipEvent": 10,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 12790,
+        "dailyAvgCustomers": 533.0,
+        "dailyAvgDuration": 131.17,
+        "dailyMaxDuration": 600,
+        "dailyMinDuration": 3
+      },
+      {
+        "day": 5,
+        "dayName": "Friday",
+        "dailyTotalEvents": 29,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 2,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 13,
+          "equipEvent": 14,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 55892,
+        "dailyAvgCustomers": 1927.0,
+        "dailyAvgDuration": 124.17,
+        "dailyMaxDuration": 648,
+        "dailyMinDuration": 5
+      },
+      {
+        "day": 6,
+        "dayName": "Saturday",
+        "dailyTotalEvents": 29,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 2,
+          "customerEvent": 0,
+          "digEvent": 1,
+          "vandalEvent": 0,
+          "enviroEvent": 14,
+          "equipEvent": 12,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 10848,
+        "dailyAvgCustomers": 374.0,
+        "dailyAvgDuration": 159.45,
+        "dailyMaxDuration": 1187,
+        "dailyMinDuration": 16
+      }
+    ]
+  },
+  {
+    "month": 2,
+    "monthName": "February",
+    "totalEvents": 96,
+    "eventDetail": {
+      "thirdPartyEvent": 8,
+      "customerEvent": 0,
+      "digEvent": 0,
+      "vandalEvent": 0,
+      "enviroEvent": 33,
+      "equipEvent": 53,
+      "lightEvent": 1,
+      "directedEvent": 1,
+      "opEvent": 0
+    },
+    "customers": 56039,
+    "avgCustomers": 584.0,
+    "avgDuration": 182.94,
+    "maxDuration": 4392,
+    "minDuration": 1,
+    "dailyStats": [
+      {
+        "day": 0,
+        "dayName": "Sunday",
+        "dailyTotalEvents": 15,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 1,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 5,
+          "equipEvent": 8,
+          "lightEvent": 1,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 9289,
+        "dailyAvgCustomers": 619.0,
+        "dailyAvgDuration": 113.8,
+        "dailyMaxDuration": 182,
+        "dailyMinDuration": 41
+      },
+      {
+        "day": 1,
+        "dayName": "Monday",
+        "dailyTotalEvents": 7,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 0,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 1,
+          "equipEvent": 6,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 707,
+        "dailyAvgCustomers": 101.0,
+        "dailyAvgDuration": 275.14,
+        "dailyMaxDuration": 1323,
+        "dailyMinDuration": 43
+      },
+      {
+        "day": 2,
+        "dayName": "Tuesday",
+        "dailyTotalEvents": 16,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 0,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 5,
+          "equipEvent": 11,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 8574,
+        "dailyAvgCustomers": 536.0,
+        "dailyAvgDuration": 376.06,
+        "dailyMaxDuration": 4392,
+        "dailyMinDuration": 6
+      },
+      {
+        "day": 3,
+        "dayName": "Wednesday",
+        "dailyTotalEvents": 11,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 2,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 5,
+          "equipEvent": 4,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 7793,
+        "dailyAvgCustomers": 708.0,
+        "dailyAvgDuration": 94.73,
+        "dailyMaxDuration": 369,
+        "dailyMinDuration": 13
+      },
+      {
+        "day": 4,
+        "dayName": "Thursday",
+        "dailyTotalEvents": 23,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 2,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 6,
+          "equipEvent": 14,
+          "lightEvent": 0,
+          "directedEvent": 1,
+          "opEvent": 0
+        },
+        "dailyCustomers": 13568,
+        "dailyAvgCustomers": 590.0,
+        "dailyAvgDuration": 157.83,
+        "dailyMaxDuration": 506,
+        "dailyMinDuration": 1
+      },
+      {
+        "day": 5,
+        "dayName": "Friday",
+        "dailyTotalEvents": 15,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 1,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 7,
+          "equipEvent": 7,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 13038,
+        "dailyAvgCustomers": 869.0,
+        "dailyAvgDuration": 110.0,
+        "dailyMaxDuration": 366,
+        "dailyMinDuration": 5
+      },
+      {
+        "day": 6,
+        "dayName": "Saturday",
+        "dailyTotalEvents": 9,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 2,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 4,
+          "equipEvent": 3,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 3070,
+        "dailyAvgCustomers": 341.0,
+        "dailyAvgDuration": 176.67,
+        "dailyMaxDuration": 705,
+        "dailyMinDuration": 26
+      }
+    ]
+  },
+  {
+    "month": 3,
+    "monthName": "March",
+    "totalEvents": 157,
+    "eventDetail": {
+      "thirdPartyEvent": 10,
+      "customerEvent": 2,
+      "digEvent": 1,
+      "vandalEvent": 2,
+      "enviroEvent": 75,
+      "equipEvent": 63,
+      "lightEvent": 3,
+      "directedEvent": 0,
+      "opEvent": 1
+    },
+    "customers": 92658,
+    "avgCustomers": 590.0,
+    "avgDuration": 162.41,
+    "maxDuration": 2026,
+    "minDuration": 2,
+    "dailyStats": [
+      {
+        "day": 0,
+        "dayName": "Sunday",
+        "dailyTotalEvents": 40,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 1,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 25,
+          "equipEvent": 13,
+          "lightEvent": 1,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 23007,
+        "dailyAvgCustomers": 575.0,
+        "dailyAvgDuration": 201.32,
+        "dailyMaxDuration": 1203,
+        "dailyMinDuration": 18
+      },
+      {
+        "day": 1,
+        "dayName": "Monday",
+        "dailyTotalEvents": 14,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 0,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 4,
+          "equipEvent": 10,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 9021,
+        "dailyAvgCustomers": 644.0,
+        "dailyAvgDuration": 96.43,
+        "dailyMaxDuration": 328,
+        "dailyMinDuration": 2
+      },
+      {
+        "day": 2,
+        "dayName": "Tuesday",
+        "dailyTotalEvents": 25,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 3,
+          "customerEvent": 0,
+          "digEvent": 1,
+          "vandalEvent": 0,
+          "enviroEvent": 9,
+          "equipEvent": 11,
+          "lightEvent": 1,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 14752,
+        "dailyAvgCustomers": 590.0,
+        "dailyAvgDuration": 217.44,
+        "dailyMaxDuration": 2026,
+        "dailyMinDuration": 11
+      },
+      {
+        "day": 3,
+        "dayName": "Wednesday",
+        "dailyTotalEvents": 25,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 2,
+          "customerEvent": 1,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 10,
+          "equipEvent": 10,
+          "lightEvent": 1,
+          "directedEvent": 0,
+          "opEvent": 1
+        },
+        "dailyCustomers": 13633,
+        "dailyAvgCustomers": 545.0,
+        "dailyAvgDuration": 174.12,
+        "dailyMaxDuration": 756,
+        "dailyMinDuration": 7
+      },
+      {
+        "day": 4,
+        "dayName": "Thursday",
+        "dailyTotalEvents": 18,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 3,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 7,
+          "equipEvent": 8,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 11072,
+        "dailyAvgCustomers": 615.0,
+        "dailyAvgDuration": 141.83,
+        "dailyMaxDuration": 401,
+        "dailyMinDuration": 3
+      },
+      {
+        "day": 5,
+        "dayName": "Friday",
+        "dailyTotalEvents": 25,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 1,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 1,
+          "enviroEvent": 16,
+          "equipEvent": 7,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 17218,
+        "dailyAvgCustomers": 689.0,
+        "dailyAvgDuration": 110.0,
+        "dailyMaxDuration": 544,
+        "dailyMinDuration": 4
+      },
+      {
+        "day": 6,
+        "dayName": "Saturday",
+        "dailyTotalEvents": 10,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 0,
+          "customerEvent": 1,
+          "digEvent": 0,
+          "vandalEvent": 1,
+          "enviroEvent": 4,
+          "equipEvent": 4,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 3955,
+        "dailyAvgCustomers": 396.0,
+        "dailyAvgDuration": 100.3,
+        "dailyMaxDuration": 200,
+        "dailyMinDuration": 35
+      }
+    ]
+  },
+  {
+    "month": 4,
+    "monthName": "April",
+    "totalEvents": 132,
+    "eventDetail": {
+      "thirdPartyEvent": 10,
+      "customerEvent": 0,
+      "digEvent": 3,
+      "vandalEvent": 0,
+      "enviroEvent": 61,
+      "equipEvent": 57,
+      "lightEvent": 0,
+      "directedEvent": 0,
+      "opEvent": 1
+    },
+    "customers": 99252,
+    "avgCustomers": 752.0,
+    "avgDuration": 200.72,
+    "maxDuration": 2888,
+    "minDuration": 6,
+    "dailyStats": [
+      {
+        "day": 0,
+        "dayName": "Sunday",
+        "dailyTotalEvents": 12,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 2,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 8,
+          "equipEvent": 2,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 4511,
+        "dailyAvgCustomers": 376.0,
+        "dailyAvgDuration": 242.25,
+        "dailyMaxDuration": 1059,
+        "dailyMinDuration": 10
+      },
+      {
+        "day": 1,
+        "dayName": "Monday",
+        "dailyTotalEvents": 27,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 4,
+          "customerEvent": 0,
+          "digEvent": 1,
+          "vandalEvent": 0,
+          "enviroEvent": 9,
+          "equipEvent": 13,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 13770,
+        "dailyAvgCustomers": 510.0,
+        "dailyAvgDuration": 271.93,
+        "dailyMaxDuration": 2888,
+        "dailyMinDuration": 8
+      },
+      {
+        "day": 2,
+        "dayName": "Tuesday",
+        "dailyTotalEvents": 26,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 0,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 12,
+          "equipEvent": 13,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 1
+        },
+        "dailyCustomers": 14455,
+        "dailyAvgCustomers": 556.0,
+        "dailyAvgDuration": 239.92,
+        "dailyMaxDuration": 1351,
+        "dailyMinDuration": 6
+      },
+      {
+        "day": 3,
+        "dayName": "Wednesday",
+        "dailyTotalEvents": 28,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 2,
+          "customerEvent": 0,
+          "digEvent": 1,
+          "vandalEvent": 0,
+          "enviroEvent": 11,
+          "equipEvent": 14,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 22952,
+        "dailyAvgCustomers": 820.0,
+        "dailyAvgDuration": 158.75,
+        "dailyMaxDuration": 1436,
+        "dailyMinDuration": 7
+      },
+      {
+        "day": 4,
+        "dayName": "Thursday",
+        "dailyTotalEvents": 21,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 0,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 11,
+          "equipEvent": 10,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 36680,
+        "dailyAvgCustomers": 1747.0,
+        "dailyAvgDuration": 132.1,
+        "dailyMaxDuration": 617,
+        "dailyMinDuration": 28
+      },
+      {
+        "day": 5,
+        "dayName": "Friday",
+        "dailyTotalEvents": 8,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 1,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 5,
+          "equipEvent": 2,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 2640,
+        "dailyAvgCustomers": 330.0,
+        "dailyAvgDuration": 72.5,
+        "dailyMaxDuration": 117,
+        "dailyMinDuration": 10
+      },
+      {
+        "day": 6,
+        "dayName": "Saturday",
+        "dailyTotalEvents": 10,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 1,
+          "customerEvent": 0,
+          "digEvent": 1,
+          "vandalEvent": 0,
+          "enviroEvent": 5,
+          "equipEvent": 3,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 4244,
+        "dailyAvgCustomers": 424.0,
+        "dailyAvgDuration": 220.9,
+        "dailyMaxDuration": 803,
+        "dailyMinDuration": 30
+      }
+    ]
+  },
+  {
+    "month": 5,
+    "monthName": "May",
+    "totalEvents": 147,
+    "eventDetail": {
+      "thirdPartyEvent": 13,
+      "customerEvent": 2,
+      "digEvent": 0,
+      "vandalEvent": 0,
+      "enviroEvent": 57,
+      "equipEvent": 75,
+      "lightEvent": 0,
+      "directedEvent": 0,
+      "opEvent": 0
+    },
+    "customers": 68011,
+    "avgCustomers": 463.0,
+    "avgDuration": 196.67,
+    "maxDuration": 1847,
+    "minDuration": 10,
+    "dailyStats": [
+      {
+        "day": 0,
+        "dayName": "Sunday",
+        "dailyTotalEvents": 24,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 1,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 10,
+          "equipEvent": 13,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 12067,
+        "dailyAvgCustomers": 503.0,
+        "dailyAvgDuration": 273.08,
+        "dailyMaxDuration": 1847,
+        "dailyMinDuration": 10
+      },
+      {
+        "day": 1,
+        "dayName": "Monday",
+        "dailyTotalEvents": 13,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 2,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 4,
+          "equipEvent": 7,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 7050,
+        "dailyAvgCustomers": 542.0,
+        "dailyAvgDuration": 103.31,
+        "dailyMaxDuration": 267,
+        "dailyMinDuration": 49
+      },
+      {
+        "day": 2,
+        "dayName": "Tuesday",
+        "dailyTotalEvents": 16,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 3,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 3,
+          "equipEvent": 10,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 3268,
+        "dailyAvgCustomers": 204.0,
+        "dailyAvgDuration": 251.0,
+        "dailyMaxDuration": 1229,
+        "dailyMinDuration": 18
+      },
+      {
+        "day": 3,
+        "dayName": "Wednesday",
+        "dailyTotalEvents": 16,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 0,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 2,
+          "equipEvent": 14,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 4860,
+        "dailyAvgCustomers": 304.0,
+        "dailyAvgDuration": 108.06,
+        "dailyMaxDuration": 521,
+        "dailyMinDuration": 10
+      },
+      {
+        "day": 4,
+        "dayName": "Thursday",
+        "dailyTotalEvents": 12,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 1,
+          "customerEvent": 1,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 5,
+          "equipEvent": 5,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 16385,
+        "dailyAvgCustomers": 1365.0,
+        "dailyAvgDuration": 110.25,
+        "dailyMaxDuration": 267,
+        "dailyMinDuration": 47
+      },
+      {
+        "day": 5,
+        "dayName": "Friday",
+        "dailyTotalEvents": 37,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 4,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 17,
+          "equipEvent": 16,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 16070,
+        "dailyAvgCustomers": 434.0,
+        "dailyAvgDuration": 202.46,
+        "dailyMaxDuration": 900,
+        "dailyMinDuration": 41
+      },
+      {
+        "day": 6,
+        "dayName": "Saturday",
+        "dailyTotalEvents": 29,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 2,
+          "customerEvent": 1,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 16,
+          "equipEvent": 10,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 8311,
+        "dailyAvgCustomers": 287.0,
+        "dailyAvgDuration": 222.55,
+        "dailyMaxDuration": 843,
+        "dailyMinDuration": 33
+      }
+    ]
+  },
+  {
+    "month": 6,
+    "monthName": "June",
+    "totalEvents": 110,
+    "eventDetail": {
+      "thirdPartyEvent": 10,
+      "customerEvent": 0,
+      "digEvent": 2,
+      "vandalEvent": 1,
+      "enviroEvent": 26,
+      "equipEvent": 67,
+      "lightEvent": 0,
+      "directedEvent": 0,
+      "opEvent": 4
+    },
+    "customers": 61078,
+    "avgCustomers": 555.0,
+    "avgDuration": 145.98,
+    "maxDuration": 1610,
+    "minDuration": 5,
+    "dailyStats": [
+      {
+        "day": 0,
+        "dayName": "Sunday",
+        "dailyTotalEvents": 16,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 0,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 5,
+          "equipEvent": 11,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 8480,
+        "dailyAvgCustomers": 530.0,
+        "dailyAvgDuration": 139.94,
+        "dailyMaxDuration": 541,
+        "dailyMinDuration": 37
+      },
+      {
+        "day": 1,
+        "dayName": "Monday",
+        "dailyTotalEvents": 17,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 3,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 3,
+          "equipEvent": 10,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 1
+        },
+        "dailyCustomers": 10755,
+        "dailyAvgCustomers": 633.0,
+        "dailyAvgDuration": 139.71,
+        "dailyMaxDuration": 499,
+        "dailyMinDuration": 5
+      },
+      {
+        "day": 2,
+        "dayName": "Tuesday",
+        "dailyTotalEvents": 22,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 1,
+          "customerEvent": 0,
+          "digEvent": 1,
+          "vandalEvent": 0,
+          "enviroEvent": 7,
+          "equipEvent": 13,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 14967,
+        "dailyAvgCustomers": 680.0,
+        "dailyAvgDuration": 108.14,
+        "dailyMaxDuration": 355,
+        "dailyMinDuration": 12
+      },
+      {
+        "day": 3,
+        "dayName": "Wednesday",
+        "dailyTotalEvents": 18,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 3,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 1,
+          "equipEvent": 12,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 2
+        },
+        "dailyCustomers": 8496,
+        "dailyAvgCustomers": 472.0,
+        "dailyAvgDuration": 123.39,
+        "dailyMaxDuration": 299,
+        "dailyMinDuration": 40
+      },
+      {
+        "day": 4,
+        "dayName": "Thursday",
+        "dailyTotalEvents": 13,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 1,
+          "customerEvent": 0,
+          "digEvent": 1,
+          "vandalEvent": 0,
+          "enviroEvent": 2,
+          "equipEvent": 8,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 1
+        },
+        "dailyCustomers": 7239,
+        "dailyAvgCustomers": 557.0,
+        "dailyAvgDuration": 87.69,
+        "dailyMaxDuration": 232,
+        "dailyMinDuration": 38
+      },
+      {
+        "day": 5,
+        "dayName": "Friday",
+        "dailyTotalEvents": 11,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 0,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 4,
+          "equipEvent": 7,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 2904,
+        "dailyAvgCustomers": 264.0,
+        "dailyAvgDuration": 233.82,
+        "dailyMaxDuration": 1113,
+        "dailyMinDuration": 53
+      },
+      {
+        "day": 6,
+        "dayName": "Saturday",
+        "dailyTotalEvents": 13,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 2,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 1,
+          "enviroEvent": 4,
+          "equipEvent": 6,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 8237,
+        "dailyAvgCustomers": 634.0,
+        "dailyAvgDuration": 240.92,
+        "dailyMaxDuration": 1610,
+        "dailyMinDuration": 58
+      }
+    ]
+  },
+  {
+    "month": 7,
+    "monthName": "July",
+    "totalEvents": 124,
+    "eventDetail": {
+      "thirdPartyEvent": 4,
+      "customerEvent": 2,
+      "digEvent": 2,
+      "vandalEvent": 0,
+      "enviroEvent": 23,
+      "equipEvent": 90,
+      "lightEvent": 1,
+      "directedEvent": 0,
+      "opEvent": 2
+    },
+    "customers": 83112,
+    "avgCustomers": 670.0,
+    "avgDuration": 157.25,
+    "maxDuration": 1558,
+    "minDuration": 1,
+    "dailyStats": [
+      {
+        "day": 0,
+        "dayName": "Sunday",
+        "dailyTotalEvents": 20,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 0,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 6,
+          "equipEvent": 14,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 10655,
+        "dailyAvgCustomers": 533.0,
+        "dailyAvgDuration": 181.15,
+        "dailyMaxDuration": 1558,
+        "dailyMinDuration": 10
+      },
+      {
+        "day": 1,
+        "dayName": "Monday",
+        "dailyTotalEvents": 12,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 0,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 3,
+          "equipEvent": 8,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 1
+        },
+        "dailyCustomers": 7633,
+        "dailyAvgCustomers": 636.0,
+        "dailyAvgDuration": 127.5,
+        "dailyMaxDuration": 406,
+        "dailyMinDuration": 56
+      },
+      {
+        "day": 2,
+        "dayName": "Tuesday",
+        "dailyTotalEvents": 21,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 1,
+          "customerEvent": 0,
+          "digEvent": 1,
+          "vandalEvent": 0,
+          "enviroEvent": 3,
+          "equipEvent": 16,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 19146,
+        "dailyAvgCustomers": 912.0,
+        "dailyAvgDuration": 103.1,
+        "dailyMaxDuration": 378,
+        "dailyMinDuration": 26
+      },
+      {
+        "day": 3,
+        "dayName": "Wednesday",
+        "dailyTotalEvents": 23,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 1,
+          "customerEvent": 1,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 1,
+          "equipEvent": 19,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 1
+        },
+        "dailyCustomers": 11387,
+        "dailyAvgCustomers": 495.0,
+        "dailyAvgDuration": 231.39,
+        "dailyMaxDuration": 1300,
+        "dailyMinDuration": 5
+      },
+      {
+        "day": 4,
+        "dayName": "Thursday",
+        "dailyTotalEvents": 19,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 0,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 6,
+          "equipEvent": 12,
+          "lightEvent": 1,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 10943,
+        "dailyAvgCustomers": 576.0,
+        "dailyAvgDuration": 126.05,
+        "dailyMaxDuration": 522,
+        "dailyMinDuration": 8
+      },
+      {
+        "day": 5,
+        "dayName": "Friday",
+        "dailyTotalEvents": 10,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 1,
+          "customerEvent": 1,
+          "digEvent": 1,
+          "vandalEvent": 0,
+          "enviroEvent": 0,
+          "equipEvent": 7,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 5063,
+        "dailyAvgCustomers": 506.0,
+        "dailyAvgDuration": 139.9,
+        "dailyMaxDuration": 472,
+        "dailyMinDuration": 8
+      },
+      {
+        "day": 6,
+        "dayName": "Saturday",
+        "dailyTotalEvents": 19,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 1,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 4,
+          "equipEvent": 14,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 18285,
+        "dailyAvgCustomers": 962.0,
+        "dailyAvgDuration": 161.32,
+        "dailyMaxDuration": 568,
+        "dailyMinDuration": 1
+      }
+    ]
+  },
+  {
+    "month": 8,
+    "monthName": "August",
+    "totalEvents": 101,
+    "eventDetail": {
+      "thirdPartyEvent": 13,
+      "customerEvent": 0,
+      "digEvent": 1,
+      "vandalEvent": 1,
+      "enviroEvent": 25,
+      "equipEvent": 60,
+      "lightEvent": 0,
+      "directedEvent": 0,
+      "opEvent": 1
+    },
+    "customers": 95796,
+    "avgCustomers": 948.0,
+    "avgDuration": 154.98,
+    "maxDuration": 2170,
+    "minDuration": 1,
+    "dailyStats": [
+      {
+        "day": 0,
+        "dayName": "Sunday",
+        "dailyTotalEvents": 10,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 1,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 4,
+          "equipEvent": 5,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 4447,
+        "dailyAvgCustomers": 445.0,
+        "dailyAvgDuration": 173.0,
+        "dailyMaxDuration": 676,
+        "dailyMinDuration": 7
+      },
+      {
+        "day": 1,
+        "dayName": "Monday",
+        "dailyTotalEvents": 24,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 1,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 1,
+          "enviroEvent": 4,
+          "equipEvent": 18,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 16399,
+        "dailyAvgCustomers": 683.0,
+        "dailyAvgDuration": 135.0,
+        "dailyMaxDuration": 520,
+        "dailyMinDuration": 1
+      },
+      {
+        "day": 2,
+        "dayName": "Tuesday",
+        "dailyTotalEvents": 13,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 1,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 4,
+          "equipEvent": 7,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 1
+        },
+        "dailyCustomers": 7836,
+        "dailyAvgCustomers": 603.0,
+        "dailyAvgDuration": 149.46,
+        "dailyMaxDuration": 501,
+        "dailyMinDuration": 18
+      },
+      {
+        "day": 3,
+        "dayName": "Wednesday",
+        "dailyTotalEvents": 18,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 1,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 4,
+          "equipEvent": 13,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 18659,
+        "dailyAvgCustomers": 1037.0,
+        "dailyAvgDuration": 83.11,
+        "dailyMaxDuration": 357,
+        "dailyMinDuration": 27
+      },
+      {
+        "day": 4,
+        "dayName": "Thursday",
+        "dailyTotalEvents": 12,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 3,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 3,
+          "equipEvent": 6,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 21525,
+        "dailyAvgCustomers": 1794.0,
+        "dailyAvgDuration": 273.67,
+        "dailyMaxDuration": 2170,
+        "dailyMinDuration": 1
+      },
+      {
+        "day": 5,
+        "dayName": "Friday",
+        "dailyTotalEvents": 9,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 2,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 3,
+          "equipEvent": 4,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 19718,
+        "dailyAvgCustomers": 2191.0,
+        "dailyAvgDuration": 155.78,
+        "dailyMaxDuration": 361,
+        "dailyMinDuration": 1
+      },
+      {
+        "day": 6,
+        "dayName": "Saturday",
+        "dailyTotalEvents": 15,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 4,
+          "customerEvent": 0,
+          "digEvent": 1,
+          "vandalEvent": 0,
+          "enviroEvent": 3,
+          "equipEvent": 7,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 7212,
+        "dailyAvgCustomers": 481.0,
+        "dailyAvgDuration": 170.53,
+        "dailyMaxDuration": 563,
+        "dailyMinDuration": 45
+      }
+    ]
+  },
+  {
+    "month": 9,
+    "monthName": "September",
+    "totalEvents": 98,
+    "eventDetail": {
+      "thirdPartyEvent": 8,
+      "customerEvent": 0,
+      "digEvent": 2,
+      "vandalEvent": 0,
+      "enviroEvent": 37,
+      "equipEvent": 46,
+      "lightEvent": 1,
+      "directedEvent": 0,
+      "opEvent": 4
+    },
+    "customers": 62271,
+    "avgCustomers": 635.0,
+    "avgDuration": 162.01,
+    "maxDuration": 1798,
+    "minDuration": 6,
+    "dailyStats": [
+      {
+        "day": 0,
+        "dayName": "Sunday",
+        "dailyTotalEvents": 10,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 0,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 5,
+          "equipEvent": 5,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 6150,
+        "dailyAvgCustomers": 615.0,
+        "dailyAvgDuration": 69.3,
+        "dailyMaxDuration": 143,
+        "dailyMinDuration": 38
+      },
+      {
+        "day": 1,
+        "dayName": "Monday",
+        "dailyTotalEvents": 14,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 3,
+          "customerEvent": 0,
+          "digEvent": 1,
+          "vandalEvent": 0,
+          "enviroEvent": 4,
+          "equipEvent": 5,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 1
+        },
+        "dailyCustomers": 12497,
+        "dailyAvgCustomers": 893.0,
+        "dailyAvgDuration": 138.36,
+        "dailyMaxDuration": 427,
+        "dailyMinDuration": 36
+      },
+      {
+        "day": 2,
+        "dayName": "Tuesday",
+        "dailyTotalEvents": 10,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 1,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 5,
+          "equipEvent": 4,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 6413,
+        "dailyAvgCustomers": 641.0,
+        "dailyAvgDuration": 267.1,
+        "dailyMaxDuration": 1798,
+        "dailyMinDuration": 29
+      },
+      {
+        "day": 3,
+        "dayName": "Wednesday",
+        "dailyTotalEvents": 25,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 3,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 12,
+          "equipEvent": 10,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 17827,
+        "dailyAvgCustomers": 713.0,
+        "dailyAvgDuration": 132.12,
+        "dailyMaxDuration": 465,
+        "dailyMinDuration": 6
+      },
+      {
+        "day": 4,
+        "dayName": "Thursday",
+        "dailyTotalEvents": 17,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 0,
+          "customerEvent": 0,
+          "digEvent": 1,
+          "vandalEvent": 0,
+          "enviroEvent": 6,
+          "equipEvent": 8,
+          "lightEvent": 1,
+          "directedEvent": 0,
+          "opEvent": 1
+        },
+        "dailyCustomers": 10927,
+        "dailyAvgCustomers": 643.0,
+        "dailyAvgDuration": 155.06,
+        "dailyMaxDuration": 469,
+        "dailyMinDuration": 18
+      },
+      {
+        "day": 5,
+        "dayName": "Friday",
+        "dailyTotalEvents": 12,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 0,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 2,
+          "equipEvent": 8,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 2
+        },
+        "dailyCustomers": 4267,
+        "dailyAvgCustomers": 356.0,
+        "dailyAvgDuration": 152.83,
+        "dailyMaxDuration": 831,
+        "dailyMinDuration": 25
+      },
+      {
+        "day": 6,
+        "dayName": "Saturday",
+        "dailyTotalEvents": 10,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 1,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 3,
+          "equipEvent": 6,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 4190,
+        "dailyAvgCustomers": 419.0,
+        "dailyAvgDuration": 280.3,
+        "dailyMaxDuration": 1089,
+        "dailyMinDuration": 66
+      }
+    ]
+  },
+  {
+    "month": 10,
+    "monthName": "October",
+    "totalEvents": 127,
+    "eventDetail": {
+      "thirdPartyEvent": 6,
+      "customerEvent": 0,
+      "digEvent": 0,
+      "vandalEvent": 0,
+      "enviroEvent": 47,
+      "equipEvent": 60,
+      "lightEvent": 12,
+      "directedEvent": 0,
+      "opEvent": 2
+    },
+    "customers": 122076,
+    "avgCustomers": 961.0,
+    "avgDuration": 135.62,
+    "maxDuration": 657,
+    "minDuration": 5,
+    "dailyStats": [
+      {
+        "day": 0,
+        "dayName": "Sunday",
+        "dailyTotalEvents": 20,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 1,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 7,
+          "equipEvent": 7,
+          "lightEvent": 5,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 26279,
+        "dailyAvgCustomers": 1314.0,
+        "dailyAvgDuration": 106.9,
+        "dailyMaxDuration": 296,
+        "dailyMinDuration": 19
+      },
+      {
+        "day": 1,
+        "dayName": "Monday",
+        "dailyTotalEvents": 22,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 0,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 4,
+          "equipEvent": 13,
+          "lightEvent": 4,
+          "directedEvent": 0,
+          "opEvent": 1
+        },
+        "dailyCustomers": 33349,
+        "dailyAvgCustomers": 1516.0,
+        "dailyAvgDuration": 126.32,
+        "dailyMaxDuration": 358,
+        "dailyMinDuration": 8
+      },
+      {
+        "day": 2,
+        "dayName": "Tuesday",
+        "dailyTotalEvents": 30,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 1,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 9,
+          "equipEvent": 17,
+          "lightEvent": 3,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 28418,
+        "dailyAvgCustomers": 947.0,
+        "dailyAvgDuration": 158.23,
+        "dailyMaxDuration": 380,
+        "dailyMinDuration": 37
+      },
+      {
+        "day": 3,
+        "dayName": "Wednesday",
+        "dailyTotalEvents": 19,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 0,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 9,
+          "equipEvent": 9,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 1
+        },
+        "dailyCustomers": 11767,
+        "dailyAvgCustomers": 619.0,
+        "dailyAvgDuration": 124.84,
+        "dailyMaxDuration": 386,
+        "dailyMinDuration": 31
+      },
+      {
+        "day": 4,
+        "dayName": "Thursday",
+        "dailyTotalEvents": 12,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 1,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 6,
+          "equipEvent": 5,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 10199,
+        "dailyAvgCustomers": 850.0,
+        "dailyAvgDuration": 95.92,
+        "dailyMaxDuration": 175,
+        "dailyMinDuration": 43
+      },
+      {
+        "day": 5,
+        "dayName": "Friday",
+        "dailyTotalEvents": 14,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 3,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 5,
+          "equipEvent": 6,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 5018,
+        "dailyAvgCustomers": 358.0,
+        "dailyAvgDuration": 228.29,
+        "dailyMaxDuration": 657,
+        "dailyMinDuration": 6
+      },
+      {
+        "day": 6,
+        "dayName": "Saturday",
+        "dailyTotalEvents": 10,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 0,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 7,
+          "equipEvent": 3,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 7046,
+        "dailyAvgCustomers": 705.0,
+        "dailyAvgDuration": 84.1,
+        "dailyMaxDuration": 172,
+        "dailyMinDuration": 5
+      }
+    ]
+  },
+  {
+    "month": 11,
+    "monthName": "November",
+    "totalEvents": 207,
+    "eventDetail": {
+      "thirdPartyEvent": 13,
+      "customerEvent": 1,
+      "digEvent": 1,
+      "vandalEvent": 0,
+      "enviroEvent": 88,
+      "equipEvent": 95,
+      "lightEvent": 7,
+      "directedEvent": 0,
+      "opEvent": 2
+    },
+    "customers": 162326,
+    "avgCustomers": 784.0,
+    "avgDuration": 153.02,
+    "maxDuration": 938,
+    "minDuration": 2,
+    "dailyStats": [
+      {
+        "day": 0,
+        "dayName": "Sunday",
+        "dailyTotalEvents": 24,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 0,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 13,
+          "equipEvent": 10,
+          "lightEvent": 1,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 18005,
+        "dailyAvgCustomers": 750.0,
+        "dailyAvgDuration": 156.79,
+        "dailyMaxDuration": 593,
+        "dailyMinDuration": 9
+      },
+      {
+        "day": 1,
+        "dayName": "Monday",
+        "dailyTotalEvents": 22,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 2,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 7,
+          "equipEvent": 12,
+          "lightEvent": 1,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 9871,
+        "dailyAvgCustomers": 449.0,
+        "dailyAvgDuration": 148.32,
+        "dailyMaxDuration": 526,
+        "dailyMinDuration": 2
+      },
+      {
+        "day": 2,
+        "dayName": "Tuesday",
+        "dailyTotalEvents": 12,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 3,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 3,
+          "equipEvent": 6,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 10396,
+        "dailyAvgCustomers": 866.0,
+        "dailyAvgDuration": 59.5,
+        "dailyMaxDuration": 179,
+        "dailyMinDuration": 9
+      },
+      {
+        "day": 3,
+        "dayName": "Wednesday",
+        "dailyTotalEvents": 27,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 3,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 10,
+          "equipEvent": 13,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 1
+        },
+        "dailyCustomers": 18755,
+        "dailyAvgCustomers": 695.0,
+        "dailyAvgDuration": 137.41,
+        "dailyMaxDuration": 631,
+        "dailyMinDuration": 5
+      },
+      {
+        "day": 4,
+        "dayName": "Thursday",
+        "dailyTotalEvents": 44,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 2,
+          "customerEvent": 0,
+          "digEvent": 1,
+          "vandalEvent": 0,
+          "enviroEvent": 26,
+          "equipEvent": 12,
+          "lightEvent": 2,
+          "directedEvent": 0,
+          "opEvent": 1
+        },
+        "dailyCustomers": 35234,
+        "dailyAvgCustomers": 801.0,
+        "dailyAvgDuration": 144.91,
+        "dailyMaxDuration": 755,
+        "dailyMinDuration": 13
+      },
+      {
+        "day": 5,
+        "dayName": "Friday",
+        "dailyTotalEvents": 58,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 2,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 21,
+          "equipEvent": 32,
+          "lightEvent": 3,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 42505,
+        "dailyAvgCustomers": 733.0,
+        "dailyAvgDuration": 172.86,
+        "dailyMaxDuration": 938,
+        "dailyMinDuration": 19
+      },
+      {
+        "day": 6,
+        "dayName": "Saturday",
+        "dailyTotalEvents": 20,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 1,
+          "customerEvent": 1,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 8,
+          "equipEvent": 10,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 27560,
+        "dailyAvgCustomers": 1378.0,
+        "dailyAvgDuration": 191.2,
+        "dailyMaxDuration": 669,
+        "dailyMinDuration": 4
+      }
+    ]
+  },
+  {
+    "month": 12,
+    "monthName": "December",
+    "totalEvents": 180,
+    "eventDetail": {
+      "thirdPartyEvent": 10,
+      "customerEvent": 1,
+      "digEvent": 3,
+      "vandalEvent": 0,
+      "enviroEvent": 68,
+      "equipEvent": 93,
+      "lightEvent": 2,
+      "directedEvent": 1,
+      "opEvent": 2
+    },
+    "customers": 109907,
+    "avgCustomers": 611.0,
+    "avgDuration": 185.29,
+    "maxDuration": 2313,
+    "minDuration": 3,
+    "dailyStats": [
+      {
+        "day": 0,
+        "dayName": "Sunday",
+        "dailyTotalEvents": 30,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 2,
+          "customerEvent": 1,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 10,
+          "equipEvent": 16,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 1
+        },
+        "dailyCustomers": 16572,
+        "dailyAvgCustomers": 552.0,
+        "dailyAvgDuration": 146.53,
+        "dailyMaxDuration": 481,
+        "dailyMinDuration": 5
+      },
+      {
+        "day": 1,
+        "dayName": "Monday",
+        "dailyTotalEvents": 17,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 0,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 7,
+          "equipEvent": 10,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 13951,
+        "dailyAvgCustomers": 821.0,
+        "dailyAvgDuration": 171.65,
+        "dailyMaxDuration": 1136,
+        "dailyMinDuration": 4
+      },
+      {
+        "day": 2,
+        "dayName": "Tuesday",
+        "dailyTotalEvents": 28,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 2,
+          "customerEvent": 0,
+          "digEvent": 1,
+          "vandalEvent": 0,
+          "enviroEvent": 6,
+          "equipEvent": 19,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 13259,
+        "dailyAvgCustomers": 474.0,
+        "dailyAvgDuration": 108.61,
+        "dailyMaxDuration": 261,
+        "dailyMinDuration": 8
+      },
+      {
+        "day": 3,
+        "dayName": "Wednesday",
+        "dailyTotalEvents": 31,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 1,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 15,
+          "equipEvent": 14,
+          "lightEvent": 1,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 17656,
+        "dailyAvgCustomers": 570.0,
+        "dailyAvgDuration": 243.9,
+        "dailyMaxDuration": 2313,
+        "dailyMinDuration": 3
+      },
+      {
+        "day": 4,
+        "dayName": "Thursday",
+        "dailyTotalEvents": 34,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 0,
+          "customerEvent": 0,
+          "digEvent": 2,
+          "vandalEvent": 0,
+          "enviroEvent": 12,
+          "equipEvent": 20,
+          "lightEvent": 0,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 28739,
+        "dailyAvgCustomers": 845.0,
+        "dailyAvgDuration": 209.09,
+        "dailyMaxDuration": 1368,
+        "dailyMinDuration": 12
+      },
+      {
+        "day": 5,
+        "dayName": "Friday",
+        "dailyTotalEvents": 20,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 3,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 8,
+          "equipEvent": 7,
+          "lightEvent": 0,
+          "directedEvent": 1,
+          "opEvent": 1
+        },
+        "dailyCustomers": 13297,
+        "dailyAvgCustomers": 665.0,
+        "dailyAvgDuration": 214.5,
+        "dailyMaxDuration": 911,
+        "dailyMinDuration": 17
+      },
+      {
+        "day": 6,
+        "dayName": "Saturday",
+        "dailyTotalEvents": 20,
+        "dailyEventDetail": {
+          "thirdPartyEvent": 2,
+          "customerEvent": 0,
+          "digEvent": 0,
+          "vandalEvent": 0,
+          "enviroEvent": 10,
+          "equipEvent": 7,
+          "lightEvent": 1,
+          "directedEvent": 0,
+          "opEvent": 0
+        },
+        "dailyCustomers": 6433,
+        "dailyAvgCustomers": 322.0,
+        "dailyAvgDuration": 201.9,
+        "dailyMaxDuration": 1215,
+        "dailyMinDuration": 43
+      }
+    ]
+  }
+]

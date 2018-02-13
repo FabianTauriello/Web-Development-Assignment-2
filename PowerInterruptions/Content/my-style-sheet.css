@@ -1,0 +1,87 @@
+﻿body {
+
+}
+
+#tableData {
+    padding-top: 25px;
+}
+
+#errorMsg {
+    text-align: center;
+
+}
+
+tr:nth-child(even) {
+    background-color: rgba(132, 137, 145, .20);
+}
+tbody tr:hover {
+    background-color: rgba(191, 215, 255, 0.50);
+}
+
+.highlightYear {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.bar-container {
+    padding-top: 25px;
+    padding-bottom: 5px;
+    margin-right: 50px;
+}
+
+div.bar {
+    width: 0%;
+    height: 35px;
+    border: solid 1px;
+    margin-bottom: 10px;  
+    margin-left: 50px; 
+    text-align: right;
+    vertical-align: middle;
+    line-height: 34px;
+    border-radius: 0px 10px 10px 0px;    
+}
+
+.secondYLabel {     
+    position: fixed;
+    vertical-align: middle;
+    line-height: 35px;
+}
+
+#yLabel {
+    font-size: 30px;
+    text-align: center;
+    transform: rotate(-90deg);
+    font-style: italic;
+    height:100%;
+    margin-left: -20px;
+    margin-right: -30px;
+    margin-top: 100px;
+}
+
+#xLabel {
+    width: 100%;
+}
+
+h4 {
+    text-align: center;
+    font-style: italic;
+}
+
+
+.barTotal {
+    padding-right: 15px;
+    color: rgb(255,255,255);
+    text-shadow: -1px 0 #000000,0 1px #000000,1px 0 #000000,0 -1px #000000;
+}
+
+.rotateDiv {
+    /* Safari */
+    -webkit-transform: rotate(-90deg);
+    /* Firefox */
+    -moz-transform: rotate(-90deg);
+    /* IE */
+    -ms-transform: rotate(-90deg);
+    /* Opera */
+    -o-transform: rotate(-90deg);
+    /* Internet Explorer */
+    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+}

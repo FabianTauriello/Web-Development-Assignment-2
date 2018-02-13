@@ -1,0 +1,102 @@
+﻿[
+  {
+    "year": 2012,
+    "totalEvents": 871,
+    "eventDetail": {
+      "thirdPartyEvent": 61,
+      "customerEvent": 6,
+      "digEvent": 9,
+      "vandalEvent": 2,
+      "enviroEvent": 355,
+      "equipEvent": 410,
+      "lightEvent": 7,
+      "directedEvent": 0,
+      "opEvent": 21
+    },
+    "customers": 616001,
+    "avgCustomers": 707.0,
+    "maxDuration": 2402,
+    "minDuration": 1,
+    "avgDuration": 130.94
+  },
+  {
+    "year": 2013,
+    "totalEvents": 2022,
+    "eventDetail": {
+      "thirdPartyEvent": 130,
+      "customerEvent": 9,
+      "digEvent": 15,
+      "vandalEvent": 3,
+      "enviroEvent": 891,
+      "equipEvent": 919,
+      "lightEvent": 21,
+      "directedEvent": 4,
+      "opEvent": 30
+    },
+    "customers": 1395259,
+    "avgCustomers": 690.0,
+    "maxDuration": 1688,
+    "minDuration": 1,
+    "avgDuration": 147.97
+  },
+  {
+    "year": 2014,
+    "totalEvents": 1538,
+    "eventDetail": {
+      "thirdPartyEvent": 104,
+      "customerEvent": 3,
+      "digEvent": 17,
+      "vandalEvent": 4,
+      "enviroEvent": 592,
+      "equipEvent": 737,
+      "lightEvent": 52,
+      "directedEvent": 5,
+      "opEvent": 23
+    },
+    "customers": 1061121,
+    "avgCustomers": 690.0,
+    "maxDuration": 2135,
+    "minDuration": 1,
+    "avgDuration": 149.16
+  },
+  {
+    "year": 2015,
+    "totalEvents": 1663,
+    "eventDetail": {
+      "thirdPartyEvent": 117,
+      "customerEvent": 8,
+      "digEvent": 18,
+      "vandalEvent": 4,
+      "enviroEvent": 626,
+      "equipEvent": 841,
+      "lightEvent": 27,
+      "directedEvent": 2,
+      "opEvent": 20
+    },
+    "customers": 1160586,
+    "avgCustomers": 698.0,
+    "maxDuration": 4392,
+    "minDuration": 1,
+    "avgDuration": 165.02
+  },
+  {
+    "year": 2016,
+    "totalEvents": 1166,
+    "eventDetail": {
+      "thirdPartyEvent": 88,
+      "customerEvent": 5,
+      "digEvent": 10,
+      "vandalEvent": 0,
+      "enviroEvent": 446,
+      "equipEvent": 593,
+      "lightEvent": 6,
+      "directedEvent": 1,
+      "opEvent": 17
+    },
+    "customers": 732285,
+    "avgCustomers": 628.0,
+    "maxDuration": 3791,
+    "minDuration": 1,
+    "avgDuration": 182.72
+  }
+]

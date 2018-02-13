@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PowerInterruptionsModelStoreContainer" CdmEntityContainer="PowerInterruptionsEntities">
+    <EntitySetMapping Name="Interruptions">
+      <EntityTypeMapping TypeName="PowerInterruptionsModel.Interruption">
+        <MappingFragment StoreEntitySet="Interruptions">
+          <ScalarProperty Name="eventID" ColumnName="eventID" />
+          <ScalarProperty Name="localGov" ColumnName="LGA" />
+          <ScalarProperty Name="startDate" ColumnName="startDate" />
+          <ScalarProperty Name="startTime" ColumnName="startTime" />
+          <ScalarProperty Name="customers" ColumnName="customers" />
+          <ScalarProperty Name="duration" ColumnName="avgDuration" />
+          <ScalarProperty Name="reason" ColumnName="reason" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

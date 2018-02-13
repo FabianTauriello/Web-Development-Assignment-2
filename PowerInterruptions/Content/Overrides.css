@@ -1,0 +1,45 @@
+﻿nav.navbar {
+    margin-bottom: 10px;
+}
+
+.bg-primary {
+    background-color: #0A0718 !important;
+}
+
+.navbar-brand img {
+    width: 80px;
+    border-radius: 10px;
+    opacity: 0.9;
+}
+
+.navbar-brand:hover img {
+    opacity: 1;
+}
+
+
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+    overflow-y: scroll;
+}
+
+form {
+    min-height: 100%;
+    min-height: 600px;
+}
+
+.background {
+    min-height: 600px;
+    background-image: url('../Images/power-outage2.jpg');
+    background-repeat: no-repeat;
+    background-position: top left;
+    padding-bottom: 150px; /* this needs to be bigger than footer height*/
+}

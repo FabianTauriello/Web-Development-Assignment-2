@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PowerInterruptionsModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Interruption">
+    <Key>
+      <PropertyRef Name="eventID" />
+    </Key>
+    <Property Name="eventID" Type="Int32" Nullable="false" />
+    <Property Name="localGov" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="startDate" Type="DateTime" Precision="0" Nullable="false" />
+    <Property Name="startTime" Type="Time" Precision="7" Nullable="false" />
+    <Property Name="customers" Type="Int32" Nullable="false" />
+    <Property Name="duration" Type="Int32" Nullable="false" />
+    <Property Name="reason" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="PowerInterruptionsEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Interruptions" EntityType="Self.Interruption" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,54 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="PowerInterruptions.Site" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <title><%: Page.Title %> - Outages</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="/Content/normalize.css" rel="stylesheet" />
+    <link href="/Content/bootstrap.css" rel="stylesheet" />
+    <link href="/Content/Overrides.css" rel="stylesheet" />
+    <script src="/Scripts/jquery-1.9.1.js"></script>
+    <script src="/Scripts/jquery.color-2.1.2.js"></script>
+    <script src="/Scripts/bootstrap.js"></script>
+    <asp:ContentPlaceHolder ID="CPHead" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server" class="container">
+        <nav class="navbar navbar-toggleable-md navbar-inverse bg-primary">
+            <button class="navbar-toggler navbar-toggler-right" aria-expanded="false" aria-controls="navbarColor01" aria-label="Toggle navigation" type="button" data-toggle="collapse" data-target="#navbarColor01">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <a class="navbar-brand" href="/">
+                <img src="/Images/LightningSml.jpg" /></a>
+
+            <div class="collapse navbar-collapse" id="navbarColor01">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="PastPowerOutages.aspx">Past Outage Data</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" target="_blank" href="http://www.ausgrid.com.au/Common/About-us/Corporate-information/Data-to-share/Pastoutages.aspx#.WQSUGGywdZI">Ausgrid Data</a>
+                    </li>
+                </ul>
+                <div class="form-inline">
+                    <input class="form-control mr-sm-2" type="text" placeholder="Search">
+                    <button class="btn btn-secondary my-2 my-sm-0" type="submit">Search</button>
+                </div>
+            </div>
+        </nav>
+        <div class="background container">
+            <asp:ContentPlaceHolder ID="CPBody" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <footer class="text-center navbar-fixed-bottom" style="margin-top:20px">
+            Power Interruptions &copy; SA - <%: System.DateTime.Now.Year %>
+        </footer>
+    </form>
+</body>
+</html>

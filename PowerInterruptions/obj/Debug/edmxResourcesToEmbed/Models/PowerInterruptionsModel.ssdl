@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PowerInterruptionsModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Interruptions">
+    <Key>
+      <PropertyRef Name="eventID" />
+    </Key>
+    <Property Name="eventID" Type="int" Nullable="false" />
+    <Property Name="LGA" Type="varchar" MaxLength="100" />
+    <Property Name="startDate" Type="date" />
+    <Property Name="startTime" Type="time" Precision="7" />
+    <Property Name="customers" Type="int" />
+    <Property Name="avgDuration" Type="int" />
+    <Property Name="reason" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityContainer Name="PowerInterruptionsModelStoreContainer">
+    <EntitySet Name="Interruptions" EntityType="Self.Interruptions" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
